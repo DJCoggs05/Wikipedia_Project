@@ -1,0 +1,39 @@
+{
+  "continue": {
+    "rvcontinue": "20230827162016|1172518095",
+    "continue": "||"
+  },
+  "query": {
+    "redirects": [
+      {
+        "from": "Zappa",
+        "to": "Frank Zappa"
+      }
+    ],
+    "pages": {
+      "10672": {
+        "pageid": 10672,
+        "ns": 0,
+        "title": "Frank Zappa",
+        "revisions": [
+          {
+            "user": "Miklogfeather",
+            "timestamp": "2023-09-07T18:34:43Z"
+          },
+          {
+            "user": "ModernDayTrilobite",
+            "timestamp": "2023-09-07T17:21:48Z"
+          },
+          {
+            "user": "Freefry",
+            "timestamp": "2023-09-02T15:06:03Z"
+          },
+          {
+            "user": "Freefry",
+            "timestamp": "2023-09-02T15:05:04Z"
+          }
+        ]
+      }
+    }
+  }
+}
